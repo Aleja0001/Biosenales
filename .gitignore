@@ -1,0 +1,4 @@
+echo "*.zip" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.pdf" >> .gitignore
+echo "prueba.ipynb" >> .gitignore
