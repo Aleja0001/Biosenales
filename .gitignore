@@ -1,4 +1,5 @@
-echo "*.zip" >> .gitignore
-echo "*.csv" >> .gitignore
-echo "*.pdf" >> .gitignore
-echo "prueba.ipynb" >> .gitignore
+*
+!Práctica_3-Parte2.ipynb
+!DATOS_EEG/
+!DATOS_EEG/**
+!.gitignore
